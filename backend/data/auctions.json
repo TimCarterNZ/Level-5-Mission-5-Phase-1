@@ -1,0 +1,94 @@
+[
+    {
+        "auction_id": 1,
+        "title": "Office Chair",
+        "description": "Second-hand ergonomic office chair.",
+        "start_price": 25,
+        "reserve_price": 50
+    },
+    {
+        "auction_id": 2,
+        "title": "Dining Table",
+        "description": "Wooden dining table with four chairs.",
+        "start_price": 50,
+        "reserve_price": 100
+    },
+    {
+        "auction_id": 3,
+        "title": "Computer Desk",
+        "description": "Small wooden desk suitable for students.",
+        "start_price": 30,
+        "reserve_price": 60
+    },
+
+    {
+        "auction_id": 4,
+        "title": "Bookshelf",
+        "description": "Five-tier wooden bookshelf in good condition.",
+        "start_price": 20,
+        "reserve_price": 40
+    },
+    {
+        "auction_id": 5,
+        "title": "Office Chair",
+        "description": "Black adjustable office chair with padded armrests.",
+        "start_price": 35,
+        "reserve_price": 70
+    },
+    {
+        "auction_id": 6,
+        "title": "Queen Bed Frame",
+        "description": "Solid wooden queen bed frame. Mattress not included.",
+        "start_price": 80,
+        "reserve_price": 150
+    },
+    {
+        "auction_id": 7,
+        "title": "Desk Lamp",
+        "description": "Adjustable LED desk lamp suitable for studying.",
+        "start_price": 5,
+        "reserve_price": 15
+    },
+    {
+        "auction_id": 8,
+        "title": "Microwave",
+        "description": "Compact 800W microwave in excellent working condition.",
+        "start_price": 20,
+        "reserve_price": 45
+    },
+    {
+        "auction_id": 9,
+        "title": "Coffee Table",
+        "description": "Small wooden coffee table with minor scratches.",
+        "start_price": 15,
+        "reserve_price": 35
+    },
+    {
+        "auction_id": 10,
+        "title": "Computer Monitor",
+        "description": "24-inch LED monitor suitable for a student desk.",
+        "start_price": 40,
+        "reserve_price": 80
+    },
+    {
+        "auction_id": 11,
+        "title": "Dining Chairs",
+        "description": "Set of four wooden dining chairs with fabric cushions.",
+        "start_price": 30,
+        "reserve_price": 60
+    },
+    {
+        "auction_id": 12,
+        "title": "Mini Fridge",
+        "description": "Compact refrigerator ideal for student accommodation.",
+        "start_price": 50,
+        "reserve_price": 100
+    },
+    {
+        "auction_id": 13,
+        "title": "Bedside Table",
+        "description": "White wooden bedside table with two drawers.",
+        "start_price": 10,
+        "reserve_price": 25
+    }
+]
